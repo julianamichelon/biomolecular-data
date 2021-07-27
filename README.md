@@ -1,11 +1,8 @@
 # biomolecular-data
-Repository of curated open biomolecular data resources.
-
-The primary purpose of this repository is to support my academic project "Molecular Sociology".
+This repository contains curated open biomolecular data resources.
 
 The list includes:
 - Open datasets
-- Open data visualization tools
-- Open data analysis tools
+- Open data analysis and visualization tools
 - Relevant scientific articles
 - Relevant tutorials
