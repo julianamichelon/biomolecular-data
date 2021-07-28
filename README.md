@@ -7,6 +7,10 @@ The list includes:
 - Relevant open access scientific articles
 - Relevant tutorials
 
+Open datasets
+
+- XTalkDB (xtalkDB.org/download)
+
 Open data Analysis and Visualization tools
 
 - Gephi (https://gephi.org/)
