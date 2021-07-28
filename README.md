@@ -1,5 +1,5 @@
 # biomolecular-data
-This repository contains curated open biomolecular data resources.
+This repository contains curated open resources for biomolecular data science.
 
 The list includes:
 - Open datasets
