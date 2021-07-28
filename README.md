@@ -9,7 +9,7 @@ The list includes:
 
 Open datasets
 
-- XTalkDB (xtalkDB.org/download)
+- XTalkDB (http://www.xtalkdb.org/download)
 
 Open data Analysis and Visualization tools
 
