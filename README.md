@@ -15,6 +15,7 @@ Open data Analysis and Visualization tools
 
 - Gephi (https://gephi.org/)
 - Cytoscape (https://cytoscape.org/index.html)
+- GraphSpace (https://graphspace.org/index)
 
 Relevant scientific articles:
 
