@@ -17,7 +17,7 @@ Open data Analysis and Visualization tools
 - Cytoscape (https://cytoscape.org/index.html)
 - GraphSpace (https://graphspace.org/index)
 
-Relevant scientific articles:
+Relevant open access scientific articles:
 
-- Google Drive: https://bit.ly/3x8xdNl
+- Visualization of Biomedical Data (Google Drive: https://bit.ly/3x8xdNl)
 - The Levin Lab, Tufts University (https://ase.tufts.edu/biology/labs/levin/)
