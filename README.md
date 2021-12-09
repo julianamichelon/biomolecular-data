@@ -11,6 +11,7 @@ Open datasets
 
 - XTalkDB (http://www.xtalkdb.org/download)
 - wwPDB Worldwide Protein Data Bank (https://www.wwpdb.org/deposition/deposition-resources)
+- AlphaFold Protein Structure Database, DeepMind and EMBL-EBI (https://alphafold.ebi.ac.uk/)
 
 Open data Analysis and Visualization tools
 
