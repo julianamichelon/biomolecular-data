@@ -9,7 +9,7 @@ The list includes:
 
 Open datasets
 
-- XTalkDB (http://www.xtalkdb.org/download)
+- XTalkDB, Signaling Pathways (http://www.xtalkdb.org/download)
 - wwPDB Worldwide Protein Data Bank (https://www.wwpdb.org/deposition/deposition-resources)
 - AlphaFold Protein Structure Database, DeepMind and EMBL-EBI (https://alphafold.ebi.ac.uk/)
 
