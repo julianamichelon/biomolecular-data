@@ -10,6 +10,7 @@ The list includes:
 Open datasets
 
 - XTalkDB (http://www.xtalkdb.org/download)
+- wwPDB Worldwide Protein Data Bank (https://www.wwpdb.org/deposition/deposition-resources)
 
 Open data Analysis and Visualization tools
 
