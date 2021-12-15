@@ -16,7 +16,8 @@ Open data resources
 - InterPro Classification of protein families (https://www.ebi.ac.uk/interpro/)
 - PDBe Protein Data Bank in Europe (https://www.ebi.ac.uk/pdbe/)
 - EMDB Electron Microscopy Data Bank (https://www.ebi.ac.uk/emdb/)
-- Reactome Pathway Database (https://reactome.org/) 
+- IntAct Molecular Interaction Database (https://www.ebi.ac.uk/intact/home)
+- Reactome Pathway Database (https://reactome.org/)
 
 Open data analysis and visualization tools
 
