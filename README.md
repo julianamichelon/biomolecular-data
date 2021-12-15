@@ -17,7 +17,13 @@ Open data resources
 - PDBe Protein Data Bank in Europe (https://www.ebi.ac.uk/pdbe/)
 - EMDB Electron Microscopy Data Bank (https://www.ebi.ac.uk/emdb/)
 - IntAct Molecular Interaction Database (https://www.ebi.ac.uk/intact/home)
+- Complex Portal Macromolecular complexes (https://www.ebi.ac.uk/complexportal/home)
 - Reactome Pathway Database (https://reactome.org/)
+- MatrixDB Extracellular Matrix Interaction Database (http://matrixdb.univ-lyon1.fr/)
+- Expasy Swiss Bioinformatics Resource Portal (https://www.expasy.org/)
+- The Human Protein Atlas (http://www.proteinatlas.org/)
+- CATH Protein domains (http://www.cathdb.info/)
+- ELIXIR Data resources (https://elixir-europe.org/services/tag/data-resources)
 
 Open data analysis and visualization tools
 
