@@ -10,6 +10,7 @@ The list includes:
 Open data resources
 
 - XTalkDB, Signaling Pathways (http://www.xtalkdb.org/download)
+- Synaptic Physiology Dataset (https://portal.brain-map.org/explore/connectivity/synaptic-physiology/interact)
 - wwPDB Worldwide Protein Data Bank (https://www.wwpdb.org/deposition/deposition-resources)
 - AlphaFold Protein Structure Database, DeepMind and EMBL-EBI (https://alphafold.ebi.ac.uk/)
 - UniProt Universal Protein Resource (https://www.uniprot.org/)
