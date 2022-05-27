@@ -25,6 +25,7 @@ Open data resources
 - The Human Protein Atlas (http://www.proteinatlas.org/)
 - CATH Protein domains (http://www.cathdb.info/)
 - ELIXIR Data resources (https://elixir-europe.org/services/tag/data-resources)
+- IMEx The International Molecular Exchange (http://www.imexconsortium.org/)
 
 Open data analysis and visualization tools
 
@@ -36,3 +37,4 @@ Relevant open access scientific articles
 
 - Visualization of Biomedical Data (Google Drive: https://bit.ly/3x8xdNl)
 - The Levin Lab, Tufts University (https://ase.tufts.edu/biology/labs/levin/)
+- Porras et al (2022) IMEx Databases: Displaying Molecular Interactions into a Single, Standards-Compliant Dataset. Methods in Molecular Biology, 2449:27-42. (https://europepmc.org/article/MED/35507258)
